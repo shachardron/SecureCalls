@@ -1,19 +1,10 @@
 
-// function getPoolData(){
-//	return {
-//			UserPoolId: localStorage["aws-congnito-user-pool-id"],
-//			ClientId: localStorage["aws-congnito-app-id"] 
-//		};
-//}
-
-
 function getPoolData(){
-return {
-		UserPoolId: 'eu-central-1_wu4N5Ikpw'
-		ClientId: '6st47i73a82ipkvk5onijo3no0'
+	return {
+			UserPoolId: eu-central-1_SrOvDEQOj,
+			ClientId: 100iprvivk0eectfsogiliodql 
 		};
 }
-
 
 var userPool;
 
