@@ -1,8 +1,8 @@
 
 function getPoolData(){
 	return {
-			UserPoolId: eu-central-1_SrOvDEQOj,
-			ClientId: 100iprvivk0eectfsogiliodql 
+			UserPoolId: 'eu-central-1_SrOvDEQOj',
+			ClientId: '100iprvivk0eectfsogiliodql' 
 		};
 }
 
