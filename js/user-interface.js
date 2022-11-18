@@ -175,7 +175,7 @@ function actionConfirmUser() {
 }
 
 function actionSignInUser() {
-	updateModal(true, false, true, false, false, "Sign In", "Authenticate user");
+	//updateModal(true, false, true, false, false, "Sign In", "Authenticate user");
 }
 
 function actionSignOutUser() {
