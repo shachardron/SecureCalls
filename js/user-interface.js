@@ -176,6 +176,9 @@ function actionConfirmUser() {
 
 function actionSignInUser() {
 	//updateModal(true, false, true, false, false, "Sign In", "Authenticate user");
+	window.location.href = 'userdata.html'
+	
+	
 }
 
 function actionSignOutUser() {
